@@ -45,7 +45,7 @@ function Manutenção(nome) {
     }
 }
 
-const funcionario1 = new FuncionarioNR("Leonardo", "Manutenção", 1650);
+const funcionario1 = new FuncionarioNR("Leonardo", "Manutenção2", 1650);
 
 const funcionario2 = new Manutenção("Luis");
 
